@@ -1,0 +1,21 @@
+.project-column {
+    float:left;
+    width: 30%;
+    margin-left: 3rem;
+    padding: 10px;
+    padding-left: 10rem;
+    padding-right: 20rem;
+    text-align: left;
+}
+
+.project-image {
+    border-radius: 0%;
+    height: 18rem;
+    width: 25rem;
+}
+
+.project-par {
+    padding: 1rem 0rem;
+    letter-spacing: .25px;
+    line-height: 1.5rem;
+}

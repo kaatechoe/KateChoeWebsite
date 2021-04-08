@@ -1,0 +1,32 @@
+.Header {
+    display: flex;
+    width: 100%;
+    font-size: calc(10px + 2vmin);
+
+}
+
+.Name {
+    float:left;
+    width: 50%;
+    margin-left: 3%;
+    text-align: left;
+
+}
+
+.Navigation {
+    display: flex;
+    margin: auto;
+    width: 50%;
+    padding-left: 50%;
+    
+}
+
+.nav-link {
+    font-size: .70em;
+    float: right;
+    padding: 0 10px;
+    text-align: right;
+}
+
+
+
