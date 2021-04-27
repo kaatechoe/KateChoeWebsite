@@ -1,6 +1,5 @@
 {
-  "homepage": "http://kaatechoe.github.io/KateChoeWebsite",
-  "name": "website",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
